@@ -11,6 +11,7 @@ This plugin is simple and can be used in any server
 ## Commands
 
 To reset score:- `!rs` or `sm_rs`
+
 To restore score:- `!restore` or `sm_restore`
 
 Note: commands starting with `!` are chat commands
@@ -42,7 +43,7 @@ resetscore_prefix "[SM]"
 To compile this plugin you can use https://spider.limetech.io
 
 1.  Put `sm_resetscore.smx` to `addons/sourcemod/plugins` directory
-2.  Done
+2.  Restart Server & Done
 
 
 
