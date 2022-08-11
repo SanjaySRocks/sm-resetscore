@@ -1,7 +1,7 @@
 
 # Reset Score
 
-A sourcemod 00plugin which allow player to reset or restore their score by using commands
+A sourcemod plugin which allow player to reset or restore their score by using commands
 
 Yes I know this is another reset plugin but in this plugin you wont get extra admin features or not so used features
 
